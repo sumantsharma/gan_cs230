@@ -1,1 +1,1 @@
-# gan_cs230
+OS contains the OpenGL rendering pipeline, papers contain the literature review, pix2pix contains the implementation of the pix2pix architecture, SimGAN contains the implementation of the SimGAN architecture.
